@@ -1,0 +1,17 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Simple RESTful To-Do API implemented with Node.js core modules",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "todo",
+    "api",
+    "node",
+    "http"
+  ],
+  "license": "MIT"
+}
